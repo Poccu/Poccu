@@ -1,6 +1,6 @@
 
-# 👋 Hey there, I’m Poccu
-I am a Frontent Developer
+# 👋 Hey there, my name is Grigory
+And I'm a Frontend Developer
 
 ### 🛠️ My skills:
 
@@ -15,8 +15,3 @@ I am a Frontent Developer
 
 - [Telegram](https://t.me/mordoboy)
 - [LinkedIn](https://www.linkedin.com/in/poccu/)
-
-<!---
-Poccu/Poccu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
