@@ -14,6 +14,7 @@ And I'm a Frontend Developer
 - Material UI
 - Firebase
 - Rest API, Axios
+- i18next
 - English - B1
 
 <!-- PROJECTS -->
