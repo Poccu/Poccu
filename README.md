@@ -1,12 +1,13 @@
 # 👋 Hey there, my name is Grigory Chemeris
 
-And I'm a Frontend Developer
+I’m a Frontend Developer with experience in creating SPA with React / TypeScript. I am constantly improving my knowledge and actively studying new technologies, applying them in practice.
 
 <!-- SKILLS -->
 
 ### 🛠️ Hard skills
 
 - React (Hooks, Router)
+- Redux Toolkit
 - JavaScript (ES6+)
 - TypeScript
 - HTML, CSS
@@ -15,13 +16,16 @@ And I'm a Frontend Developer
 - Firebase
 - Rest API, Axios
 - i18next
+
+### 🌎 Languages
+- Russian - Native
 - English - B1
 
 <!-- PROJECTS -->
 
 ### ⚙️ My projects
-- [CV](https://github.com/Poccu/cv)
-- [Seven](https://github.com/Poccu/seven)
+- [CV](https://github.com/Poccu/cv) - Portfolio website | React - Material UI - API
+- [Seven](https://github.com/Poccu/seven) - Social network | React - Redux Toolkit - TypeScript - Material UI - Firebase - i18next
 
 <!-- CONTACT ME -->
 
